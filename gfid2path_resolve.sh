@@ -26,7 +26,7 @@ function get_full_path() {
 }
 
 main() {
-        if [ $# -lt 2 ] ;then
+        if [ $# -lt 2 ]; then
                 echo "Resolves file GFID to full path via trusted.gfid2path xattr. Example:"
                 echo "$0 /brick1/brick/ a70c723f-7dd7-44c5-b327-95eaae48d47e"
                 exit -1
