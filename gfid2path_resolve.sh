@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Version: 1.1
 # Author: amark@redhat.com
 # Quickly resolve a GFID to filename and/or directory path.
